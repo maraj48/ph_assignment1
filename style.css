@@ -30,6 +30,11 @@ body {
   background-color: white;
   border-radius: 5px;
 }
+.btn:hover{
+    background-color: #007032;
+    border: 0px;
+    color: white;
+}
 .text {
   font-size: 56px;
   font-weight: bold;
@@ -54,6 +59,11 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.first:hover{
+    background-color: #9ff8f4;
+        border: 0px;
+        color: rgb(0, 0, 0);
+}
 .hero {
   width: 500px;
   height: 430px;
@@ -69,6 +79,11 @@ body {
   color: #ffffff;
   background-color: #006a50;
   border-radius: 8px;
+}
+.btn2:hover{
+        background-color: #f50505;
+        border: 0px;
+        color: white;
 }
 .second {
   margin: 80px 160px;
@@ -88,6 +103,11 @@ body {
   border-radius: 16px;
   width: 302px;
   padding: 24px;
+}
+.parts:hover{
+    background-color: #ff5757;
+        border: 0px;
+        color: white;
 }
 .light {
   margin-bottom: 24px;
@@ -109,6 +129,13 @@ body {
   width: 445px;
   padding: 32px;
 }
+
+.vparts:hover{
+    background-color: #ff5353;
+        border: 0px;
+        color: white;
+}
+
 .vcol1 {
   background-color: #548ff53d;
 }
@@ -147,6 +174,21 @@ body {
   color: #ffffff;
   background-color: #ffc239;
   border-radius: 8px;
+}
+.btn21:hover{
+    background-color: #551a1a;
+        border: 0px;
+        color: white;
+}
+.btn22:hover{
+    background-color: #551a1a;
+        border: 0px;
+        color: white;
+}
+.btn23:hover{
+    background-color: #551a1a;
+        border: 0px;
+        color: white;
 }
 .quotation {
   border: 1px solid white;
@@ -268,6 +310,11 @@ select {
     border-radius: 16px;
     background-color: #ffffff;
 }
+.boxn:hover{
+    background-color: #964242;
+        border: 0px;
+        color: white;
+}
 .dui{
     background-color: #C6E4D6;
 }
@@ -341,4 +388,9 @@ select {
 }
 .fb {
     width: 300px;
+}
+.btn3:hover{
+    background-color: #ff0000;
+        border: 0px;
+        color: white;
 }
