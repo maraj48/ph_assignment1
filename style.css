@@ -230,7 +230,7 @@ select {
     color: #5c5b5b;
 }
 .halka{
-    color: #5c5b5b;
+    color: #444444;
 }
 .halka1{
     margin: 0px 160px 8px;
@@ -239,4 +239,76 @@ select {
     font-size: 32px;
     font-weight: 700;
     color: #444444;
+}
+.donate{
+    margin: 80px 160px 24px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.sub{
+    margin: 24px 160px 0px;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    margin: 32px 160px;
+}
+.boxn{
+    font-weight: bolder;
+    font-size: 20px;
+    border: 1px solid rgb(202, 202, 202);
+    width: 240px;
+    padding: 40px;
+    align-items: center;
+    text-align: center;
+    border-radius: 16px;
+    background-color: #ffffff;
+}
+.dui{
+    background-color: #C6E4D6;
+}
+.takaa{
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    font-size: 16px;
+    border: 1px solid green;
+    box-sizing: border-box;
+    margin: 32px 160px 32px 160px;
+    align-content: center;
+}
+.taka{
+    border: 0px;
+    margin-left: 13%;
+    font-size: 32px;
+}
+.center{
+    text-align: center;
+    margin-top: 32px;
+}
+.footer{
+    padding: 80px;
+    text-align: center;
+    background-color: #c6e4d6;
+    margin: 80px 160px;
+    border-radius: 25px;
+    height: auto;
+    justify-content: space-between;
+}
+.subs{
+    margin-bottom: 16px;
+}
+.last{
+    margin: 24px 0px 24px 48px ;
+    width: 46%;
+    padding: 18px 40px;
+    border: 0px;
+    border-radius: 10px;
+    font-size: 18px;
+
+}
+.btn3{
+    margin-left: -15px;
+    margin-top: -2px;
 }
