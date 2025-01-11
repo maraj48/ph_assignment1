@@ -18,11 +18,12 @@ body {
   justify-content: space-between;
   margin: 24px 160px 48px;
 }
-.bd {
+.bd{
   font-size: 32px;
   font-weight: 700;
 }
 .btn {
+    font-size: 18px;
   border: 1px solid #006a50;
   color: #006a50;
   padding: 10px 20px;
@@ -178,11 +179,13 @@ body {
   margin: 0px 160px;
 }
 .question {
+    
   font-size: 20px;
   font-weight: 600;
 }
 
 table {
+    border: 1px solid rgb(236, 236, 236);
   width: 100%;
   border-collapse: collapse;
 }
@@ -191,7 +194,7 @@ th,
 td {
   padding: 15px;
   text-align: left;
-  border-bottom: 1px solid rgb(224, 224, 224);
+  border-bottom: 1px solid rgb(211, 211, 211);
 }
 
 th {
@@ -273,7 +276,7 @@ select {
     background-color: #ffffff;
     padding: 20px;
     font-size: 16px;
-    border: 1px solid green;
+    border: 0px;
     box-sizing: border-box;
     margin: 32px 160px 32px 160px;
     align-content: center;
@@ -298,6 +301,7 @@ select {
 }
 .subs{
     margin-bottom: 16px;
+    font-size: 45px;
 }
 .last{
     margin: 24px 0px 24px 48px ;
@@ -310,5 +314,31 @@ select {
 }
 .btn3{
     margin-left: -15px;
-    margin-top: -2px;
+    margin-top: -3spx;
+
+    order: 0px;
+  font-size: 8px;
+  font-weight: 600;
+  margin-top: 24px;
+  padding: 17px 34px;
+  color: #ffffff;
+  background-color: #006a50;
+  border-radius: 8px;
+}
+.bd1{
+    text-align: center;
+    font-size: 20px;
+}
+.line{
+    margin: 32px 160px;
+}
+.social{
+    margin: 32px auto 50px auto;
+    text-align: center;
+}
+.insta{
+    margin: 0px 32px;
+}
+.fb {
+    width: 300px;
 }
