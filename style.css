@@ -181,11 +181,6 @@ body {
   font-size: 20px;
   font-weight: 600;
 }
-h1 {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 20px;
-}
 
 table {
   width: 100%;
@@ -208,4 +203,40 @@ select {
   background-color: #c6e4d6;
   padding: 5px;
   font-size: 16px;
+}
+.new{
+    margin: 80px 160px 24px;
+}
+.sat{
+    border-radius: 24px;
+}
+.newsbar{
+    padding: 48px;
+    border-radius: 24px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    margin: 24px 160px;
+}
+.texty{
+    margin-left: 32px;
+}
+.logo{
+    margin: 12px 0px;
+}
+.date{
+    margin-bottom: 12px;
+    font-size: 16px;
+    color: #5c5b5b;
+}
+.halka{
+    color: #5c5b5b;
+}
+.halka1{
+    margin: 0px 160px 8px;
+}
+.garo{
+    font-size: 32px;
+    font-weight: 700;
+    color: #444444;
 }
