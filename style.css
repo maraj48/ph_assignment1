@@ -13,7 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 24px 160px;
+    margin: 24px 160px 48px;
 }
 .bd{
     font-size: 32px;
@@ -65,4 +65,25 @@
     color: #ffffff;
     background-color: #006A50;
     border-radius: 8px;
+}
+.second{
+    margin: 80px 160px;
+}
+.pillar{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 32px;
+}
+.pillarname{
+    display: flex;
+    justify-content: space-between;
+}
+.parts{
+    border: 1px solid #dfdddd ;
+    border-radius: 16px;
+    width: 302px;
+    padding: 24px;
+}
+.light{
+    margin-bottom: 24px;
 }
