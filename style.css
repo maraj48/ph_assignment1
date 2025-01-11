@@ -5,9 +5,13 @@
   font-variation-settings:
     "wdth" 100;
 }
+
 *{
     margin: 0px;
     padding: 0px;
+}
+body{
+    background-color: #f5f5f5;
 }
 .navv{
     display: flex;
@@ -79,6 +83,7 @@
     justify-content: space-between;
 }
 .parts{
+    background-color: #ffffff;
     border: 1px solid #dfdddd ;
     border-radius: 16px;
     width: 302px;
@@ -86,4 +91,58 @@
 }
 .light{
     margin-bottom: 24px;
+}
+.cardname{
+    font-size: 20px;
+    font-weight: bold;
+}
+.extra{
+    margin-bottom: 24px;
+}
+.vision{
+    display: flex;
+    justify-content: space-between;
+}
+.vparts{
+    border: 1px solid black;
+    border-radius: 16px;
+    width: 445px;
+    padding: 32px;
+}
+.vcol1{
+    background-color: #548ff53d;
+}
+.vcol2{
+    background-color: #C6E4D6;
+}
+.vcol3{
+    background-color: #F7EBCF;
+}
+.btn21{
+    border: 0px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 24px;
+    padding: 17px 34px;
+    color: #ffffff;
+    background-color: #5490F5;
+    border-radius: 8px;
+}.btn22{
+    border: 0px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 24px;
+    padding: 17px 34px;
+    color: #ffffff;
+    background-color: #09A15C;
+    border-radius: 8px;
+}.btn23{
+    border: 0px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 24px;
+    padding: 17px 34px;
+    color: #ffffff;
+    background-color: #FFC239;
+    border-radius: 8px;
 }
